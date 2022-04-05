@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y41l4mXcoAa2+foJ/eQbTeErH4rwAOSx0zlIEGb3WncAhoSeCT1KL7YgI+ajT6MhJdeLzrgxvHNzFrZbPmV4Ww==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\45608\\Documents\\ITU\\4_Sementer\\f#\\Mandatory Ex\\scrabble_project\\ScrabbleTemplate\\ScrabbleTemplate\\ScrabbleTemplate.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\45608\\.nuget\\packages\\fparsec\\1.1.1\\fparsec.1.1.1.nupkg.sha512",
+    "C:\\Users\\45608\\.nuget\\packages\\fsharp.core\\6.0.3\\fsharp.core.6.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Oxyphenbutazone. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org",
+      "libraryId": "Oxyphenbutazone",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package ScrabbleServer. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org",
+      "libraryId": "ScrabbleServer",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package ScrabbleUtil. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org",
+      "libraryId": "ScrabbleUtil",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
